@@ -1,10 +1,5 @@
 # bot.py
-from codeop import CommandCompiler
 import os
-import random
-from urllib import request
-from wsgiref.util import request_uri
-from urllib import request
 
 import discord
 from dotenv import load_dotenv
